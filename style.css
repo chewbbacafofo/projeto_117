@@ -1,0 +1,12 @@
+body{
+    background-color:rgb(80, 255, 240);
+}
+
+h1{
+    color:rgb(72, 150, 150);
+    background-color:white;
+}
+
+#showsketch{
+    float:right;
+}
